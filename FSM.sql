@@ -1,5 +1,4 @@
 DECLARE @Schema VARCHAR(MAX) = 'Dbo'
--- This is the table name. Write your own table name here
 DECLARE @Table VARCHAR(MAX) = 'database'
  
 DECLARE @result varchar(max) = ''
